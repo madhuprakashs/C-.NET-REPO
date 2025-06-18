@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\bin\Debug\Calculetor-program.exe.config
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\bin\Debug\Calculetor-program.exe
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\bin\Debug\Calculetor-program.pdb
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\obj\Debug\Calculetor-program.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\obj\Debug\Calculetor-program.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\obj\Debug\Calculetor-program.exe
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\obj\Debug\Calculetor-program.pdb
+C:\Users\ADMIN\source\repos\Calculetor-program\Calculetor-program\obj\Debug\Calculetor-program.exe.config
